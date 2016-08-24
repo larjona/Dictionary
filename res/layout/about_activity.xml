@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:text="@string/contactMe"
             android:textAppearance="?android:attr/textAppearanceSmall" />
-        
+
         <TextView
             android:id="@+id/email"
             android:layout_width="wrap_content"
@@ -83,10 +83,10 @@
             android:layout_gravity="left"
             android:autoLink="web"
             android:clickable="true"
-            android:text="Dominik Köppl, Uwe Trottmann, Michael Vogel, Laura Arjona, Fabio Casciano"
+            android:text="Dominik Köppl, Uwe Trottmann, Michael Vogel, Laura Arjona, Fabio Casciano, 'Akira"
             android:paddingBottom="10dip"
              />
-        
+
         <TextView
             android:id="@+id/license"
             android:layout_width="wrap_content"
