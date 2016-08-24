@@ -84,6 +84,6 @@ Por favor envíe comentarios, sugerencias, informes de error o simplemente un sa
     <string name="showPrevNextButtonsSummary">Mostrar u ocultar los botones de palabra anterior y siguiente en la vista de diccionario.</string>
     <string name="themeTitle">Tema</string>
     <string name="themeSummary">Color y tema de la interfaz de usuario.</string>
-    <string name="chosenNotWritable">No se puede escribir en e directorio escogido, pruebe uno de</string>
+    <string name="chosenNotWritable">No se puede escribir en el directorio escogido, pruebe uno de</string>
 
 </resources>
